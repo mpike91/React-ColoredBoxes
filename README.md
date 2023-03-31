@@ -10,3 +10,6 @@ This app is a small test of handling state control in a React app. It generates 
 2) Move into directory: `cd React-ColoredBoxes/`
 3) Install npm: `npm install`
 4) Start app: `npm start`
+
+## My Contribution
+I was not given any starter code. I used create-react-app to generate the boilerplate code, and I created my own components and functions and css styling files.
