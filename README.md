@@ -5,13 +5,8 @@ This app is a small test of handling state control in a React app. It generates 
   <img width="50%" src="boxes.png" alt="Image of app">
 </p>
 
-# Running the App
-
-## Clone repo:
-`git clone https://github.com/mpike91/React-ColoredBoxes.git`
-## Move into directory:
-`cd React-ColoredBoxes/`
-## Install npm:
-`npm install`
-## Start app:
-`npm start`
+## Running the App
+1) Clone repo: `git clone https://github.com/mpike91/React-ColoredBoxes.git`
+2) Move into directory: `cd React-ColoredBoxes/`
+3) Install npm: `npm install`
+4) Start app: `npm start`
