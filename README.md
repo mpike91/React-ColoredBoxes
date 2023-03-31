@@ -5,8 +5,6 @@ This app is a small test of handling state control in a React app. It generates 
   <img width="50%" src="boxes.png" alt="Image of app">
 </p>
 
-![Image of app](boxes.png)
-
 ## Running the App
 
 Clone the directory with: 
