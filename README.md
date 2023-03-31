@@ -7,10 +7,7 @@ This app is a small test of handling state control in a React app. It generates 
 
 ## Running the App
 
-Clone the directory with: 
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+Clone repo: ### 'git clone https://github.com/mpike91/React-ColoredBoxes.git'
+Move into directory: """ 'cd React-ColoredBoxes/'
+Install npm: ### 'npm install'
+Start app: ## 'npm start'
