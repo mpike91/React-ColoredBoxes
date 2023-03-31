@@ -1,0 +1,22 @@
+.Boxes {
+    text-align: center;
+    width: 700px;
+}
+
+.Boxes-Box {
+    /* text-align: center; */
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.Boxes-msg {
+    position: absolute;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+    font-size: 25px;
+}
