@@ -8,10 +8,10 @@ This app is a small test of handling state control in a React app. It generates 
 ## Running the App
 
 Clone repo:
-### 'git clone https://github.com/mpike91/React-ColoredBoxes.git'
+### `git clone https://github.com/mpike91/React-ColoredBoxes.git`
 Move into directory:
-### 'cd React-ColoredBoxes/'
+### `cd React-ColoredBoxes/`
 Install npm:
-### 'npm install'
+### `npm install`
 Start app:
-### 'npm start'
+### `npm start`
